@@ -1,0 +1,18 @@
+.upload__image-wrapper #upload,
+#remove {
+  color: #04a9f5;
+  width: 200px;
+  position: relative;
+  background: none;
+  margin: 10px;
+  font-size: 16px;
+  padding: 5px 10px;
+  transition: all 0.7s ease;
+  border-radius: 10px;
+  border: 3px solid #04a9f5;
+  cursor: pointer;
+}
+
+.upload__image-wrapper {
+  text-align: center;
+}
