@@ -3,13 +3,22 @@
 [Website](https://krazy-itt.netlify.app)
 
 
+This is krazy it Bangladeshi company coding test project. I try to full fill their all requirements. 
+* Design a form with multiple images input with preview.
+* Bring an image remove option from the preview list
+* Bring an add text button somewhere on the page, when click on the add text button a pop-up will appear and can write some text onto that when submitting the text then the text will be placed on that t-shirt.
+
+* Text can be moveable with drag-drop and some arrow (left-right etc.) button click action.
+
+
+
 ## Technology
 
 * React
 * React Router
-* React file uploader
+* React Hooks
 * Netlify
-*Bootstrap
+* Bootstrap
 
 
 ## Screenshots
